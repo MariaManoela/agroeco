@@ -6,7 +6,7 @@
 - Convocação de profissionais da área ambiental com o objetivo de instruir as crianças a respeito da importância da preservação do meio ambiente
 
 ### Descomplicando o Agronegócio
-- Por serem crianças do interior, acredita-se que, no futuro, muitas delas trabalhem com o agronegócio e, além disso, o fato de estarem inseridas em um ambiente rural torna necessário o conhecimento básico do funcionamento do agronegócio
+- Por serem crianças do interior, acredita-se que, no futuro, muitas delas trabalhem com o agronegócio. Além disso, o fato de estarem inseridas em um ambiente rural torna necessário o conhecimento básico do funcionamento do agronegócio
 - Esse conhecimento é importante para prover uma ideia inicial de qual é a dinâmica do ambiente em que elas vivem, o que facilita o seu entendimento a respeito do meio ambiente e a importância da preservação
 
 ### Implementação de Jogos
