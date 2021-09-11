@@ -188,6 +188,7 @@ nav ul li a.active::after{
 
 #about .text {
     margin-right: 3rem;
+    width: 42rem;
 }
 
 /*====  PROPOSALS ============================ */
@@ -219,4 +220,39 @@ nav ul li a.active::after{
 
 .swiper-pagination-bullet-active {
     background: #72A603;
+}
+
+/*====  CONTACT ============================ */
+#contact {
+    background: white;
+}
+
+#contact .grid {
+    /* gap: 4rem; */
+}
+
+#contact .container {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+#contact ul li {
+    display: flex;
+    align-items: center;
+}
+
+#contact .text {
+    width: 25rem;
+}
+
+#contact h2 {
+    margin-bottom: 3rem;
+}
+
+#contact img {
+    width: 1.875rem;
+    height: 1.875rem;
+    margin-right: 2rem;
 }
