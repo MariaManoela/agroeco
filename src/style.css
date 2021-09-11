@@ -189,3 +189,34 @@ nav ul li a.active::after{
 #about .text {
     margin-right: 3rem;
 }
+
+/*====  PROPOSALS ============================ */
+#proposals {
+    background: #F2F2F2;
+}
+
+#proposals .container {
+    margin: 0;
+}
+
+#proposals h2{
+    text-align: center;
+}
+
+.swiper-slide {
+    display: inline-flex;
+    background: white;
+    height: 21.75rem;
+    width: 5rem;
+    padding: 4rem 1rem;
+    margin-right: 6.5rem;
+}
+
+.swiper-pagination-bullet {
+    width: .75rem;
+    height: .75rem;
+}
+
+.swiper-pagination-bullet-active {
+    background: #72A603;
+}
