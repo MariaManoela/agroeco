@@ -50,3 +50,60 @@ body {
     background: #97BF04;
 }
 
+/*====  LAYOUT ============================ */
+.container {
+    margin-left: 7.6rem;
+    margin-right: 7.6rem;
+}
+
+.grid {
+    display: grid;
+    gap: 2rem;
+}
+
+.section {
+    padding: 9.5rem;
+}
+
+.section .title {
+    margin-bottom: 1rem;
+}
+
+#header {
+    border-bottom: 1px solid #e4e4e4;
+    margin-bottom: 2rem;
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    background-color: hsl(0 0% 98%);
+    width: 100%;
+}
+
+/*====  LOGO ============================ */
+.logo {
+    font: 700 2rem "Poppins", sans-serif;
+    color: hsl(159 41% 10%);
+}
+
+span {
+    color: #72A603;
+}
+
+/*====  NAVIGATION ============================ */
+nav {
+    height: 4.5rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
+
+nav ul li {
+    display: inline-flex;
+}
+
+nav ul li a {
+    margin-right: 2rem;
+}
