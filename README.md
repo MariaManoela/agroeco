@@ -3,7 +3,7 @@
 - Principal proposta: inserção da tecnologia no meio rural visando a sustentabilidade através de programas de educação
 
 ## Link do Design do Site (Figma)
-- 
+- https://www.figma.com/file/qgIWyNTCUwBr8UbqA39hza/Agroeco?node-id=8%3A5
 
 ## Programa de Educação Ambiental nas Escolas
 - Convocação de profissionais da área ambiental com o objetivo de instruir as crianças a respeito da importância da preservação do meio ambiente
