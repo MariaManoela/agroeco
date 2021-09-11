@@ -18,3 +18,35 @@ img {
     height: auto;
 }
 
+/*====  BASE ============================ */
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    font: 400 1rem "DM Sans", sans-serif;
+    color: hsl(0 0% 46%);
+    background: hsl(0 0% 98%);
+}
+
+.title {
+    font: 700 1.875rem "Poppins", sans-serif;
+    color: hsl(159 41% 10%);
+}
+
+.button {
+    background-color: #72A603;
+    color: hsl(0 0% 98%);
+    height: 3.5rem;
+    display: inline-flex;
+    align-items: center;
+    padding: 0 2rem;
+    border-radius: .25rem;
+    font: 500 1rem "DM Sans", sans-serif;
+    transition: background .3s;
+}
+
+.button:hover {
+    background: #97BF04;
+}
+
