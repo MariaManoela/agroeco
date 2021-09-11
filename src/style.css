@@ -30,7 +30,7 @@ body {
 }
 
 .title {
-    font: 700 1.875rem "Poppins", sans-serif;
+    font: 700 2rem "Poppins", sans-serif;
     color: hsl(159 41% 10%);
 }
 
@@ -67,7 +67,7 @@ body {
 }
 
 .section {
-    padding: 9.5rem;
+    padding: 9.5rem 7.6rem;
 }
 
 .section .title {
@@ -142,3 +142,31 @@ nav ul li a.active::after{
 }
 
 /*====  HOME ============================ */
+#home {
+    background: #F2F2F2;
+}
+
+#home .container {
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+#home .image {
+    margin-left: 0;
+    margin-right: 7rem;
+}
+
+#home .text h2 {
+    margin-bottom: 3rem;
+}
+
+#home .text {
+    margin-left: 1.5rem;
+    margin-right: 1.5rem;
+    text-align: center;
+}
+
+#home .button{
+    margin-top: 3rem;
+}
