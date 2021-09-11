@@ -170,3 +170,22 @@ nav ul li a.active::after{
 #home .button{
     margin-top: 3rem;
 }
+
+/*====  ABOUT ============================ */
+#about {
+    background: white;
+}
+
+#about .container {
+    margin: 0;
+    display: flex;
+    align-items: center;
+}
+
+#about .text h2 {
+    margin-bottom: 3rem;
+}
+
+#about .text {
+    margin-right: 3rem;
+}
