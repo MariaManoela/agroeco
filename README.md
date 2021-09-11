@@ -1,6 +1,9 @@
-# AgroEco 
+# Agroeco 
 - Público-alvo: crianças que residem no interior
-- Principal proposta: Inserção da tecnologia no meio rural visando a sustentabilidade
+- Principal proposta: inserção da tecnologia no meio rural visando a sustentabilidade através de programas de educação
+
+## Link do Design do Site (Figma)
+- 
 
 ## Programa de Educação Ambiental nas Escolas
 - Convocação de profissionais da área ambiental com o objetivo de instruir as crianças a respeito da importância da preservação do meio ambiente
