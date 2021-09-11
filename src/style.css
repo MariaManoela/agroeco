@@ -34,6 +34,11 @@ body {
     color: hsl(159 41% 10%);
 }
 
+.menu-title {
+    font: 500 1.2rem "Poppins", sans-serif;
+    color: #0F241D;
+}
+
 .button {
     background-color: #72A603;
     color: hsl(0 0% 98%);
@@ -136,4 +141,4 @@ nav ul li a.active::after{
     width: 100%;
 }
 
-  
+/*====  HOME ============================ */
