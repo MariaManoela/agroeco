@@ -11,6 +11,7 @@ ul {
 
 a {
     text-decoration: none;
+    color: #72A603;
 }
 
 img {
@@ -25,8 +26,8 @@ html {
 
 body {
     font: 400 1rem "DM Sans", sans-serif;
-    color: hsl(0 0% 46%);
-    background: hsl(0 0% 98%);
+    color: #767676;
+    background: #FFFFFF;
 }
 
 .title {
@@ -41,7 +42,7 @@ body {
 
 .button {
     background-color: #72A603;
-    color: hsl(0 0% 98%);
+    color: #FFFFFF;
     height: 3.5rem;
     display: inline-flex;
     align-items: center;
@@ -66,7 +67,7 @@ body {
     gap: 2rem;
 }
 
-.section {
+main .section {
     padding: 9.5rem 7.6rem;
 }
 
@@ -82,14 +83,14 @@ body {
     top: 0;
     left: 0;
     z-index: 100;
-    background-color: hsl(0 0% 98%);
+    background-color: #FFFFFF;
     width: 100%;
 }
 
 /*====  LOGO ============================ */
 .logo {
     font: 700 2rem "Poppins", sans-serif;
-    color: hsl(159 41% 10%);
+    color: #0F241D;
 }
 
 span {
@@ -115,8 +116,7 @@ nav ul li a {
     position: relative;
 }
 
-nav ul li a:hover,
-nav ul li a.active {
+nav ul li a:hover {
     color: #72A603;
 }
 
@@ -131,8 +131,7 @@ nav ul li a::after {
     transition: width .3s;
 }
 
-nav ul li a:hover::after,
-nav ul li a.active::after{
+nav ul li a:hover::after {
     width: 100%;
 }
 
@@ -168,7 +167,7 @@ nav ul li a.active::after{
 
 /*====  ABOUT ============================ */
 #about {
-    background: white;
+    background: #FFFFFF;
 }
 
 #about .container {
@@ -197,29 +196,40 @@ nav ul li a.active::after{
 
 #proposals h2{
     text-align: center;
+    margin-bottom: 5rem;
 }
 
-.swiper-slide {
-    display: inline-flex;
-    background: white;
-    height: 21.75rem;
-    width: 5rem;
-    padding: 4rem 1rem;
-    margin-right: 6.5rem;
+#proposals .proposals {
+    display: flex;
+    justify-content: space-around;
 }
 
-.swiper-pagination-bullet {
-    width: .75rem;
-    height: .75rem;
+#proposals .proposal {
+    background: #FFFFFF;
+    height: 27rem;
+    width: 25rem;
+    border-bottom: 0.25rem solid #72A603;
 }
 
-.swiper-pagination-bullet-active {
-    background: #72A603;
+#proposals .icon {
+    display: flex;
+    justify-content: center;
+    margin-top: 2rem;
+}
+
+#proposals img {
+    width: 6rem;
+}
+
+#proposals .text {
+    padding: 3rem;
+    text-align: center;
+    margin-top: 3rem;
 }
 
 /*====  CONTACT ============================ */
 #contact {
-    background: white;
+    background: #FFFFFF;
     height: 43rem;
 }
 
@@ -252,6 +262,7 @@ nav ul li a.active::after{
 /*====  FOOTER ============================ */
 footer {
     background: #81A649;
+    padding: 5rem 7.6rem 5rem 7.6rem;
 }
 
 footer .container {
